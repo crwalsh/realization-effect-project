@@ -1,0 +1,11 @@
+condition,outcome_type,amount
+paper_loss_large,paper,-350
+paper_loss_medium,paper,-200
+paper_neutral,paper,0
+paper_gain_small,paper,40
+paper_gain_large,paper,150
+realized_loss_large,realized,-3500
+realized_loss_medium,realized,-1800
+realized_loss_small,realized,-400
+realized_neutral,realized,-30
+realized_gain,realized,200
